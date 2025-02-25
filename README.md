@@ -61,4 +61,4 @@ This project was solved by **Al-Qasem R. AbuKashef**, focusing on **Net Revenue 
 
 Feel free to reach out for collaboration or questions regarding the project.
 
-**Made with love by **Al-Qasem R. AbuKashef** :heart
+**Made with love by **Al-Qasem R. AbuKashef** :heart**
